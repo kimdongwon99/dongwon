@@ -1,0 +1,2 @@
+class MinjiController < ApplicationController
+end
